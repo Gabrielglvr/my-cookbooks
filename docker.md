@@ -12,7 +12,9 @@
 
 ### Snap
 
+```sh
 sudo snap install docker
+```
 
 ## Uninstall 
 
